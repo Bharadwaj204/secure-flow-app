@@ -1,0 +1,5 @@
+{
+  "name": "Secure Flow App",
+  "description": "A React application demonstrating a secure user authentication and configuration flow, with pages for Sign-In/Sign-Up, Configuration, and a protected Dashboard. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
